@@ -1,0 +1,19 @@
+{
+  "name": "sample-cloud-storage",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "2.71.0",
+    "googleapis": "^21.3.0",
+    "@google-cloud/storage": "^1.2.1",
+    "@google-cloud/bigquery": "^1.0.1",
+    "node-gzip": "1.1.2",
+    "file-type": "^5.2.0",
+    "decompress-gz": "0.0.1",
+    "gunzip-file": "^0.1.1",
+    "fs": "^0.0.1-security",
+    "zlib": "^1.0.5"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
