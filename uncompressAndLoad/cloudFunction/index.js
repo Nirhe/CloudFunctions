@@ -20,4 +20,12 @@ exports.decompressCSV = (event, callback) => {
     }
 
     callback();
+
+
+    //This is a bad commit
+
+    var x = 0
+    if (x = "2"){
+        console.log("this is not how we want to code");
+    }
 };
