@@ -28,4 +28,7 @@ exports.decompressCSV = (event, callback) => {
     if (x = "2"){
         console.log("this is not how we want to code");
     }
+    else if (x = 3){
+        console.log("hmm.."); 
+    }
 };
