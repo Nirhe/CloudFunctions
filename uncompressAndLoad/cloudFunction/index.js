@@ -31,4 +31,10 @@ exports.decompressCSV = (event, callback) => {
     else if (x = 3){
         console.log("hmm.."); 
     }
+    else{
+        let foo;
+        console.log(foo);
+            
+        }
+    
 };
