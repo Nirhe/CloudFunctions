@@ -36,6 +36,10 @@ exports.decompressCSV = (event, callback) => {
         console.log(foo);
             
         if(x=y){console.log("smart move");}
+
+        if(x=1){
+            console.log("Why's that?!")
+        }
         }
     
 };
